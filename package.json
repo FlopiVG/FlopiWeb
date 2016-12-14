@@ -1,0 +1,20 @@
+{
+  "name": "flopiweb",
+  "version": "1.0.0",
+  "description": "A Flopi Web!",
+  "main": "server.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlopiVG/FlopiWeb.git"
+  },
+  "author": "Flopi",
+  "license": "ISC",
+  "dependencies": {
+	"react": "^15.4.1",
+	"react-dom": "^15.4.1"
+  },
+  "devDependencies": {}
+}
