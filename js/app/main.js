@@ -1,7 +1,9 @@
 'use strict';
 
-define(['react', 'reactDOM', "components/mainComponent"], function(React, ReactDOM, Component){
+define(["backbone", "marionette", "underscore", "react", "jquery"], function(){
+    console.log("On main...");
+    require(["app"], function(App){
 
-
+    });
 });
 

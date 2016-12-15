@@ -1,7 +1,5 @@
 'use strict';
 
-define([], function(){
-
-    console.log("Hello From mainComponent");
-
+require([], function(){
+    console.log("On mainComponent...");
 });
